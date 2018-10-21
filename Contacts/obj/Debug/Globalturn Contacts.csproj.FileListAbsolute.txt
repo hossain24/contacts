@@ -1,0 +1,10 @@
+C:\Users\HA\source\repos\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\HA\source\repos\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\HA\source\repos\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\HA\source\repos\Contacts\Contacts\obj\Debug\Globalturn Contacts.csprojResolveAssemblyReference.cache
+C:\Users\HA\source\repos\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\HA\source\repos\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\HA\source\repos\Contacts\Contacts\obj\Debug\Globalturn Contacts.csproj.GenerateResource.cache
+C:\Users\HA\source\repos\Contacts\Contacts\obj\Debug\Globalturn Contacts.csproj.CoreCompileInputs.cache
+C:\Users\HA\source\repos\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\HA\source\repos\Contacts\Contacts\obj\Debug\Contacts.pdb
